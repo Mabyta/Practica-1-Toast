@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Mabys Pizza</string>
+    <string name="tamaño">Seleccione un tamaño</string>
+    <string name="Ingredientes">Seleccione los ingredientes que tendra la pizza</string>
+    <string name="pedido">No pediste nada</string>
+</resources>

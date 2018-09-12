@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Sun Aug 26 23:57:46 PDT 2018
+0.baseType=DIRECTORY
+0.base=/home/mabel/Documents/Aplicaciones moviles para android/Mabel/app/build/intermediates/transforms/dexMerger/debug/16
+0.path=classes.dex
+0.set=DEX
+count=1

@@ -1,0 +1,4 @@
+#Sun Aug 26 23:53:33 PDT 2018
+base.0=/home/mabel/Documents/Aplicaciones moviles para android/Mabel/app/build/intermediates/transforms/dexMerger/debug/10
+path.0=classes.dex
+renamed.0=classes.dex
